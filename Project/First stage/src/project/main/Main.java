@@ -116,7 +116,7 @@ public class Main {
             System.out.println(event);
         }
 
-        System.out.println("\nCnange the room for an event(In this case: eventId=1, actualRoomId=2, newRoomId=3):");
+        System.out.println("\nChange the room for an event(In this case: eventId=1, actualRoomId=2, newRoomId=3):");
 
         try{
             eventService.changeEventRoomById(1, roomService.getRoomById(3));
