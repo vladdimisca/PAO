@@ -18,8 +18,8 @@ Actions and queries:
   4. Change the name for an object by different parameters  
   5. Change the price assigned to a certain show  
   6. Check if you can assign a show in a certain room on a specified date  
-  7. Check if a room seat is busy  
-  8. Change the seat from a ticket  
+  7. Check if a seat from a certain room is busy  
+  8. Change the seat of a client from a ticket  
   9. Remove a ticket     
   10. Remove a client and all of his tickets  
   11. Get the total earnings for a certain event  
