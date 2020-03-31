@@ -1,5 +1,5 @@
-Folder for the first stage of the project  
-  
+Folder for the first stage of the project (Project number 9, "Place reservation in the show room")    
+
 Objects:  
   1. Client - clients with no discount  
   2. Student - clients with student discount, extended from Client  
