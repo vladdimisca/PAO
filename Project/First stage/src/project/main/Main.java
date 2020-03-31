@@ -210,7 +210,7 @@ public class Main {
             System.out.println(ticket);
         }
 
-        System.out.println("\nChange the seat for ticket with ticketId=2 in (3, 5) and then show all tickets:");
+        System.out.println("\nChange the seat for the ticket with ticketId=2 in (3, 5) and then show all tickets:");
 
         ticketService.changeTicketSeatById(2, new Seat(3,5));
 
