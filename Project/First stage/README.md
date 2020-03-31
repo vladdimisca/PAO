@@ -5,7 +5,7 @@ Objects:
   2. Student - clients with student discount, extended from Client  
   3. Child - clients with child discount, extended from Client  
   4. Pensioner - clients with pensioner discount, extended from Client  
-  5. Seat - used in Ticket, holds the place of a client at a certain event  
+  5. Seat - used in Ticket, holds information about the place of a client at a certain event  
   6. Room - holds the details about a room  
   7. Show - holds the details about a show  
   8. Event - matches a show with a room on a certain date    
