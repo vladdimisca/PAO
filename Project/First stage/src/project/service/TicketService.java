@@ -71,18 +71,7 @@ public class TicketService {
         ArrayList<Ticket> tickets = ticketRepository.getAllByEventId(event.getEventId());
 
         for(Ticket ticket : tickets) {
-            if(ticket.getClient() instanceof Child) {
-                Child child = (Child) ticket.getClient();
-                earnings += child.getPrice(event.getShow().getPrice());
-            } else if (ticket.getClient() instanceof Student) {
-                Student student = (Student) ticket.getClient();
-                earnings += student.getPrice(event.getShow().getPrice());
-            } else if (ticket.getClient() instanceof Pensioner) {
-                Pensioner pensioner = (Pensioner) ticket.getClient();
-                earnings += pensioner.getPrice(event.getShow().getPrice());
-            } else {
-                earnings += ticket.getClient().getPrice(event.getShow().getPrice());
-            }
+            earnings += ticket.getClient().getPrice(event.getShow().getPrice());
         }
         return earnings;
     }
