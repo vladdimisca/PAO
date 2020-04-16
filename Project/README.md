@@ -1,4 +1,4 @@
-Folder for the first stage of the project (Project number 9, "Place reservation in the show room")    
+(Project number 9, "Place reservation in the show room")    
 
 Objects:  
   1. Client - clients with no discount  
