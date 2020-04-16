@@ -1,0 +1,81 @@
+Get all existing clients from csv,2020-04-16 13:18:30.508
+Get all existing rooms from csv,2020-04-16 13:18:30.508
+Get all existing shows from csv,2020-04-16 13:18:30.508
+Get all existing events from csv,2020-04-16 13:18:30.508
+Get all existing tickets from csv,2020-04-16 13:18:30.508
+Get all clients,2020-04-16 13:18:33.102
+Add a new client,2020-04-16 13:18:42.471
+Get all clients,2020-04-16 13:18:43.627
+Add a new client,2020-04-16 13:19:23.635
+Get all clients,2020-04-16 13:19:25.078
+Get a client by id,2020-04-16 13:19:46.532
+Get all students,2020-04-16 13:20:04.022
+Change clients name by actual name,2020-04-16 13:20:29.785
+Get all clients,2020-04-16 13:20:31.347
+Change clients name by actual name,2020-04-16 13:20:40.549
+Get all clients,2020-04-16 13:20:46.281
+Add a new show,2020-04-16 13:21:06.996
+Get all shows,2020-04-16 13:21:11.56
+Change a show price by id,2020-04-16 13:21:29.877
+Get all shows,2020-04-16 13:21:29.877
+Get all shows,2020-04-16 13:21:31.595
+Add a new room,2020-04-16 13:21:58.041
+Get all rooms,2020-04-16 13:22:03.802
+Get a show by id,2020-04-16 13:23:12.54
+Get a room by id,2020-04-16 13:23:12.541
+Add a new event,2020-04-16 13:23:12.558
+Check if an event can take place,2020-04-16 13:23:12.559
+Get events by date,2020-04-16 13:23:12.559
+Get all events,2020-04-16 13:23:41.601
+Change an event date by id,2020-04-16 13:24:14.496
+Get an event by id,2020-04-16 13:24:14.497
+Check if an event can take place,2020-04-16 13:24:14.497
+Get events by date,2020-04-16 13:24:14.498
+Get all events,2020-04-16 13:24:14.498
+Get all events,2020-04-16 13:24:16.083
+Get a client by id,2020-04-16 13:24:33.504
+Get an event by id,2020-04-16 13:24:33.505
+Add a new ticket,2020-04-16 13:24:41.845
+Check if a ticket could be assigned,2020-04-16 13:24:41.846
+Get all tickets,2020-04-16 13:24:45.205
+Get a client by id,2020-04-16 13:25:07.735
+Get an event by id,2020-04-16 13:25:07.736
+Get all tickets,2020-04-16 13:25:33.116
+Get a client by id,2020-04-16 13:25:42.893
+Get an event by id,2020-04-16 13:25:42.893
+Add a new ticket,2020-04-16 13:25:46.502
+Get all tickets,2020-04-16 13:25:48.222
+Change a ticket seat by id,2020-04-16 13:26:14.124
+Get a ticket by id,2020-04-16 13:26:14.124
+Check if a ticket could be assigned,2020-04-16 13:26:14.124
+Get all tickets,2020-04-16 13:26:14.124
+Get all tickets,2020-04-16 13:26:16.717
+Get an event earnings by id,2020-04-16 13:26:28.223
+Get an event by id,2020-04-16 13:26:28.223
+Remove a client by id,2020-04-16 13:26:46.681
+Get tickets by client id,2020-04-16 13:26:46.683
+Remove a ticket by id,2020-04-16 13:26:46.683
+Get all tickets,2020-04-16 13:26:46.684
+Get all clients,2020-04-16 13:26:46.685
+Get all tickets,2020-04-16 13:26:51.581
+Get all clients,2020-04-16 13:26:59.837
+Get all existing clients from csv,2020-04-16 13:27:26.163
+Add an existing client from csv,2020-04-16 13:27:26.163
+Get all existing rooms from csv,2020-04-16 13:27:26.163
+Add an existing room from csv,2020-04-16 13:27:26.178
+Get all existing shows from csv,2020-04-16 13:27:26.178
+Add an existing show from csv,2020-04-16 13:27:26.178
+Get all existing events from csv,2020-04-16 13:27:26.178
+Get a show by id,2020-04-16 13:27:26.178
+Get a room by id,2020-04-16 13:27:26.178
+Add an existing event from csv,2020-04-16 13:27:26.2
+Check if an event can take place,2020-04-16 13:27:26.2
+Get events by date,2020-04-16 13:27:26.2
+Get all existing tickets from csv,2020-04-16 13:27:26.2
+Get a client by id,2020-04-16 13:27:26.2
+Get an event by id,2020-04-16 13:27:26.2
+Add an existing ticket from csv,2020-04-16 13:27:26.2
+Check if a ticket could be assigned,2020-04-16 13:27:26.2
+Add a new client,2020-04-16 13:27:55.398
+Get all clients,2020-04-16 13:27:57.118
+Add a new show,2020-04-16 13:29:04.935
