@@ -1,1 +1,1 @@
-Folder for the third stage of the project
+Third stage of the project
