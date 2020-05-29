@@ -1,0 +1,291 @@
+Get a client by email,2020-05-28 16:42:00.631,http-nio-8080-exec-5
+Login a client,2020-05-28 16:42:06.315,http-nio-8080-exec-7
+Get a client by email,2020-05-28 16:42:06.315,http-nio-8080-exec-7
+Get a client by email,2020-05-28 16:42:06.353,http-nio-8080-exec-9
+Change client's password,2020-05-28 16:42:56.257,http-nio-8080-exec-4
+Get a client by email,2020-05-28 16:42:56.258,http-nio-8080-exec-4
+Login a client,2020-05-28 16:43:43.154,http-nio-8080-exec-8
+Get a client by email,2020-05-28 16:43:43.154,http-nio-8080-exec-8
+Login a client,2020-05-28 16:43:49.854,http-nio-8080-exec-9
+Get a client by email,2020-05-28 16:43:49.855,http-nio-8080-exec-9
+Get a client by email,2020-05-28 16:43:49.907,http-nio-8080-exec-1
+Get a client by email,2020-05-28 23:48:16.799,http-nio-8080-exec-3
+Register a new client,2020-05-28 23:48:33.124,http-nio-8080-exec-9
+Get a client by email,2020-05-28 23:48:33.124,http-nio-8080-exec-9
+Add a new client,2020-05-28 23:48:33.127,Add Client Thread
+Get all events,2020-05-28 23:58:12.963,http-nio-8080-exec-7
+Get a show by id,2020-05-28 23:58:13.014,http-nio-8080-exec-7
+Get a room by id,2020-05-28 23:58:13.054,http-nio-8080-exec-7
+Get a show by id,2020-05-28 23:58:13.088,http-nio-8080-exec-7
+Get a show by id,2020-05-28 23:58:13.094,http-nio-8080-exec-7
+Get a room by id,2020-05-28 23:58:13.101,http-nio-8080-exec-7
+Get a show by id,2020-05-28 23:58:13.107,http-nio-8080-exec-7
+Get a show by id,2020-05-28 23:58:13.112,http-nio-8080-exec-7
+Get a room by id,2020-05-28 23:58:13.118,http-nio-8080-exec-7
+Get a show by id,2020-05-28 23:58:13.122,http-nio-8080-exec-7
+Get a show by id,2020-05-28 23:58:13.126,http-nio-8080-exec-7
+Get a room by id,2020-05-28 23:58:13.129,http-nio-8080-exec-7
+Get a show by id,2020-05-28 23:58:13.132,http-nio-8080-exec-7
+Get a show by id,2020-05-28 23:58:13.135,http-nio-8080-exec-7
+Get a room by id,2020-05-28 23:58:13.138,http-nio-8080-exec-7
+Get a show by id,2020-05-28 23:58:13.141,http-nio-8080-exec-7
+Get a show by id,2020-05-28 23:58:13.144,http-nio-8080-exec-7
+Get a room by id,2020-05-28 23:58:13.146,http-nio-8080-exec-7
+Get a show by id,2020-05-28 23:58:13.149,http-nio-8080-exec-7
+Get a show by id,2020-05-28 23:58:13.152,http-nio-8080-exec-7
+Get a room by id,2020-05-28 23:58:13.155,http-nio-8080-exec-7
+Get a show by id,2020-05-28 23:58:13.164,http-nio-8080-exec-7
+Login a client,2020-05-28 23:58:18.672,http-nio-8080-exec-10
+Get a client by email,2020-05-28 23:58:18.673,http-nio-8080-exec-10
+Login a client,2020-05-28 23:58:22.057,http-nio-8080-exec-4
+Get a client by email,2020-05-28 23:58:22.058,http-nio-8080-exec-4
+Get a client by email,2020-05-28 23:58:22.109,http-nio-8080-exec-2
+Get tickets by email,2020-05-28 23:58:26.359,http-nio-8080-exec-6
+Get an event by id,2020-05-28 23:58:26.378,http-nio-8080-exec-6
+Get a client by email,2020-05-28 23:58:26.382,http-nio-8080-exec-6
+Get a show by id,2020-05-28 23:58:26.384,http-nio-8080-exec-6
+Get a room by id,2020-05-28 23:58:26.387,http-nio-8080-exec-6
+Get a show by id,2020-05-28 23:58:26.39,http-nio-8080-exec-6
+Get an event by id,2020-05-28 23:58:26.393,http-nio-8080-exec-6
+Get a client by email,2020-05-28 23:58:26.396,http-nio-8080-exec-6
+Get a show by id,2020-05-28 23:58:26.4,http-nio-8080-exec-6
+Get a room by id,2020-05-28 23:58:26.403,http-nio-8080-exec-6
+Get a show by id,2020-05-28 23:58:26.405,http-nio-8080-exec-6
+Get an event by id,2020-05-28 23:58:26.407,http-nio-8080-exec-6
+Get a client by email,2020-05-28 23:58:26.41,http-nio-8080-exec-6
+Get a show by id,2020-05-28 23:58:26.414,http-nio-8080-exec-6
+Get a room by id,2020-05-28 23:58:26.417,http-nio-8080-exec-6
+Get a show by id,2020-05-28 23:58:26.42,http-nio-8080-exec-6
+Remove a ticket by id,2020-05-28 23:58:32.004,http-nio-8080-exec-7
+Get tickets by email,2020-05-28 23:58:32.13,http-nio-8080-exec-10
+Get an event by id,2020-05-28 23:58:32.133,http-nio-8080-exec-10
+Get a client by email,2020-05-28 23:58:32.135,http-nio-8080-exec-10
+Get a show by id,2020-05-28 23:58:32.138,http-nio-8080-exec-10
+Get a room by id,2020-05-28 23:58:32.141,http-nio-8080-exec-10
+Get a show by id,2020-05-28 23:58:32.145,http-nio-8080-exec-10
+Get an event by id,2020-05-28 23:58:32.148,http-nio-8080-exec-10
+Get a client by email,2020-05-28 23:58:32.153,http-nio-8080-exec-10
+Get a show by id,2020-05-28 23:58:32.156,http-nio-8080-exec-10
+Get a room by id,2020-05-28 23:58:32.158,http-nio-8080-exec-10
+Get a show by id,2020-05-28 23:58:32.162,http-nio-8080-exec-10
+Remove a ticket by id,2020-05-28 23:58:33.471,http-nio-8080-exec-1
+Get tickets by email,2020-05-28 23:58:33.583,http-nio-8080-exec-5
+Get an event by id,2020-05-28 23:58:33.586,http-nio-8080-exec-5
+Get a client by email,2020-05-28 23:58:33.588,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:58:33.591,http-nio-8080-exec-5
+Get a room by id,2020-05-28 23:58:33.595,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:58:33.598,http-nio-8080-exec-5
+Remove a ticket by id,2020-05-28 23:58:34.632,http-nio-8080-exec-2
+Get tickets by email,2020-05-28 23:58:34.727,http-nio-8080-exec-6
+Get all events,2020-05-28 23:58:36.383,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:58:36.386,http-nio-8080-exec-8
+Get a room by id,2020-05-28 23:58:36.389,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:58:36.391,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:58:36.394,http-nio-8080-exec-8
+Get a room by id,2020-05-28 23:58:36.397,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:58:36.399,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:58:36.401,http-nio-8080-exec-8
+Get a room by id,2020-05-28 23:58:36.403,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:58:36.406,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:58:36.409,http-nio-8080-exec-8
+Get a room by id,2020-05-28 23:58:36.412,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:58:36.417,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:58:36.419,http-nio-8080-exec-8
+Get a room by id,2020-05-28 23:58:36.422,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:58:36.425,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:58:36.428,http-nio-8080-exec-8
+Get a room by id,2020-05-28 23:58:36.431,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:58:36.433,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:58:36.436,http-nio-8080-exec-8
+Get a room by id,2020-05-28 23:58:36.438,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:58:36.44,http-nio-8080-exec-8
+Add a new ticket,2020-05-28 23:58:49.608,http-nio-8080-exec-10
+Get the first free seat for an event by id,2020-05-28 23:58:49.609,http-nio-8080-exec-10
+Get tickets by eventId,2020-05-28 23:58:49.61,http-nio-8080-exec-10
+Get an event by id,2020-05-28 23:58:49.615,http-nio-8080-exec-10
+Get a room by id,2020-05-28 23:58:49.619,http-nio-8080-exec-10
+Check the validity of a ticket,2020-05-28 23:58:49.623,http-nio-8080-exec-10
+Get a client by email,2020-05-28 23:58:49.623,http-nio-8080-exec-10
+Get an event by id,2020-05-28 23:58:49.628,http-nio-8080-exec-10
+Get tickets by email,2020-05-28 23:58:50.732,http-nio-8080-exec-4
+Get an event by id,2020-05-28 23:58:50.735,http-nio-8080-exec-4
+Get a client by email,2020-05-28 23:58:50.737,http-nio-8080-exec-4
+Get a show by id,2020-05-28 23:58:50.742,http-nio-8080-exec-4
+Get a room by id,2020-05-28 23:58:50.745,http-nio-8080-exec-4
+Get a show by id,2020-05-28 23:58:50.748,http-nio-8080-exec-4
+Get all events,2020-05-28 23:58:56.85,http-nio-8080-exec-2
+Get a show by id,2020-05-28 23:58:56.854,http-nio-8080-exec-2
+Get a room by id,2020-05-28 23:58:56.858,http-nio-8080-exec-2
+Get a show by id,2020-05-28 23:58:56.862,http-nio-8080-exec-2
+Get a show by id,2020-05-28 23:58:56.865,http-nio-8080-exec-2
+Get a room by id,2020-05-28 23:58:56.867,http-nio-8080-exec-2
+Get a show by id,2020-05-28 23:58:56.869,http-nio-8080-exec-2
+Get a show by id,2020-05-28 23:58:56.872,http-nio-8080-exec-2
+Get a room by id,2020-05-28 23:58:56.874,http-nio-8080-exec-2
+Get a show by id,2020-05-28 23:58:56.876,http-nio-8080-exec-2
+Get a show by id,2020-05-28 23:58:56.878,http-nio-8080-exec-2
+Get a room by id,2020-05-28 23:58:56.879,http-nio-8080-exec-2
+Get a show by id,2020-05-28 23:58:56.881,http-nio-8080-exec-2
+Get a show by id,2020-05-28 23:58:56.883,http-nio-8080-exec-2
+Get a room by id,2020-05-28 23:58:56.885,http-nio-8080-exec-2
+Get a show by id,2020-05-28 23:58:56.887,http-nio-8080-exec-2
+Get a show by id,2020-05-28 23:58:56.889,http-nio-8080-exec-2
+Get a room by id,2020-05-28 23:58:56.891,http-nio-8080-exec-2
+Get a show by id,2020-05-28 23:58:56.893,http-nio-8080-exec-2
+Get a show by id,2020-05-28 23:58:56.895,http-nio-8080-exec-2
+Get a room by id,2020-05-28 23:58:56.897,http-nio-8080-exec-2
+Get a show by id,2020-05-28 23:58:56.899,http-nio-8080-exec-2
+Add a new ticket,2020-05-28 23:59:08.2,http-nio-8080-exec-6
+Get the first free seat for an event by id,2020-05-28 23:59:08.201,http-nio-8080-exec-6
+Get tickets by eventId,2020-05-28 23:59:08.201,http-nio-8080-exec-6
+Get an event by id,2020-05-28 23:59:08.206,http-nio-8080-exec-6
+Get a room by id,2020-05-28 23:59:08.21,http-nio-8080-exec-6
+Check the validity of a ticket,2020-05-28 23:59:08.215,http-nio-8080-exec-6
+Get a client by email,2020-05-28 23:59:08.215,http-nio-8080-exec-6
+Get an event by id,2020-05-28 23:59:08.219,http-nio-8080-exec-6
+Get tickets by email,2020-05-28 23:59:09.529,http-nio-8080-exec-8
+Get an event by id,2020-05-28 23:59:09.533,http-nio-8080-exec-8
+Get a client by email,2020-05-28 23:59:09.536,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:59:09.539,http-nio-8080-exec-8
+Get a room by id,2020-05-28 23:59:09.542,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:59:09.545,http-nio-8080-exec-8
+Get an event by id,2020-05-28 23:59:09.547,http-nio-8080-exec-8
+Get a client by email,2020-05-28 23:59:09.55,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:59:09.552,http-nio-8080-exec-8
+Get a room by id,2020-05-28 23:59:09.556,http-nio-8080-exec-8
+Get a show by id,2020-05-28 23:59:09.558,http-nio-8080-exec-8
+Get a client by email,2020-05-28 23:59:27.674,http-nio-8080-exec-1
+Get all events,2020-05-28 23:59:31.533,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:59:31.536,http-nio-8080-exec-5
+Get a room by id,2020-05-28 23:59:31.538,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:59:31.541,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:59:31.544,http-nio-8080-exec-5
+Get a room by id,2020-05-28 23:59:31.546,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:59:31.55,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:59:31.554,http-nio-8080-exec-5
+Get a room by id,2020-05-28 23:59:31.557,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:59:31.559,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:59:31.561,http-nio-8080-exec-5
+Get a room by id,2020-05-28 23:59:31.564,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:59:31.567,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:59:31.569,http-nio-8080-exec-5
+Get a room by id,2020-05-28 23:59:31.571,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:59:31.573,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:59:31.575,http-nio-8080-exec-5
+Get a room by id,2020-05-28 23:59:31.578,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:59:31.58,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:59:31.583,http-nio-8080-exec-5
+Get a room by id,2020-05-28 23:59:31.585,http-nio-8080-exec-5
+Get a show by id,2020-05-28 23:59:31.587,http-nio-8080-exec-5
+Get tickets by email,2020-05-28 23:59:33.847,http-nio-8080-exec-3
+Get an event by id,2020-05-28 23:59:33.851,http-nio-8080-exec-3
+Get a client by email,2020-05-28 23:59:33.854,http-nio-8080-exec-3
+Get a show by id,2020-05-28 23:59:33.856,http-nio-8080-exec-3
+Get a room by id,2020-05-28 23:59:33.859,http-nio-8080-exec-3
+Get a show by id,2020-05-28 23:59:33.862,http-nio-8080-exec-3
+Get an event by id,2020-05-28 23:59:33.865,http-nio-8080-exec-3
+Get a client by email,2020-05-28 23:59:33.868,http-nio-8080-exec-3
+Get a show by id,2020-05-28 23:59:33.87,http-nio-8080-exec-3
+Get a room by id,2020-05-28 23:59:33.873,http-nio-8080-exec-3
+Get a show by id,2020-05-28 23:59:33.875,http-nio-8080-exec-3
+Get a client by email,2020-05-28 23:59:35.834,http-nio-8080-exec-7
+Get a client by email,2020-05-29 12:51:32.211,http-nio-8080-exec-7
+Get tickets by email,2020-05-29 12:51:34.372,http-nio-8080-exec-6
+Get an event by id,2020-05-29 12:51:34.408,http-nio-8080-exec-6
+Get a client by email,2020-05-29 12:51:34.457,http-nio-8080-exec-6
+Get a show by id,2020-05-29 12:51:34.464,http-nio-8080-exec-6
+Get a room by id,2020-05-29 12:51:34.514,http-nio-8080-exec-6
+Get a show by id,2020-05-29 12:51:34.562,http-nio-8080-exec-6
+Get an event by id,2020-05-29 12:51:34.565,http-nio-8080-exec-6
+Get a client by email,2020-05-29 12:51:34.569,http-nio-8080-exec-6
+Get a show by id,2020-05-29 12:51:34.572,http-nio-8080-exec-6
+Get a room by id,2020-05-29 12:51:34.575,http-nio-8080-exec-6
+Get a show by id,2020-05-29 12:51:34.579,http-nio-8080-exec-6
+Get all events,2020-05-29 12:51:36.882,http-nio-8080-exec-10
+Get a show by id,2020-05-29 12:51:36.886,http-nio-8080-exec-10
+Get a room by id,2020-05-29 12:51:36.89,http-nio-8080-exec-10
+Get a show by id,2020-05-29 12:51:36.897,http-nio-8080-exec-10
+Get a show by id,2020-05-29 12:51:36.902,http-nio-8080-exec-10
+Get a room by id,2020-05-29 12:51:36.906,http-nio-8080-exec-10
+Get a show by id,2020-05-29 12:51:36.909,http-nio-8080-exec-10
+Get a show by id,2020-05-29 12:51:36.913,http-nio-8080-exec-10
+Get a room by id,2020-05-29 12:51:36.917,http-nio-8080-exec-10
+Get a show by id,2020-05-29 12:51:36.92,http-nio-8080-exec-10
+Get a show by id,2020-05-29 12:51:36.923,http-nio-8080-exec-10
+Get a room by id,2020-05-29 12:51:36.926,http-nio-8080-exec-10
+Get a show by id,2020-05-29 12:51:36.935,http-nio-8080-exec-10
+Get a show by id,2020-05-29 12:51:36.938,http-nio-8080-exec-10
+Get a room by id,2020-05-29 12:51:36.941,http-nio-8080-exec-10
+Get a show by id,2020-05-29 12:51:36.943,http-nio-8080-exec-10
+Get a show by id,2020-05-29 12:51:36.946,http-nio-8080-exec-10
+Get a room by id,2020-05-29 12:51:36.948,http-nio-8080-exec-10
+Get a show by id,2020-05-29 12:51:36.951,http-nio-8080-exec-10
+Get a show by id,2020-05-29 12:51:36.954,http-nio-8080-exec-10
+Get a room by id,2020-05-29 12:51:36.957,http-nio-8080-exec-10
+Get a show by id,2020-05-29 12:51:36.96,http-nio-8080-exec-10
+Add a new ticket,2020-05-29 12:51:38.941,Add Ticket Thread
+Get the first free seat for an event by id,2020-05-29 12:51:38.941,Add Ticket Thread
+Get tickets by eventId,2020-05-29 12:51:38.941,Add Ticket Thread
+Get an event by id,2020-05-29 12:51:38.944,Add Ticket Thread
+Get a room by id,2020-05-29 12:51:38.947,Add Ticket Thread
+Check the validity of a ticket,2020-05-29 12:51:38.95,Add Ticket Thread
+Get a client by email,2020-05-29 12:51:38.95,Add Ticket Thread
+Get an event by id,2020-05-29 12:51:38.952,Add Ticket Thread
+Get tickets by email,2020-05-29 12:51:40.169,http-nio-8080-exec-1
+Get an event by id,2020-05-29 12:51:40.173,http-nio-8080-exec-1
+Get a client by email,2020-05-29 12:51:40.176,http-nio-8080-exec-1
+Get a show by id,2020-05-29 12:51:40.18,http-nio-8080-exec-1
+Get a room by id,2020-05-29 12:51:40.183,http-nio-8080-exec-1
+Get a show by id,2020-05-29 12:51:40.185,http-nio-8080-exec-1
+Get an event by id,2020-05-29 12:51:40.188,http-nio-8080-exec-1
+Get a client by email,2020-05-29 12:51:40.19,http-nio-8080-exec-1
+Get a show by id,2020-05-29 12:51:40.193,http-nio-8080-exec-1
+Get a room by id,2020-05-29 12:51:40.196,http-nio-8080-exec-1
+Get a show by id,2020-05-29 12:51:40.2,http-nio-8080-exec-1
+Get an event by id,2020-05-29 12:51:40.202,http-nio-8080-exec-1
+Get a client by email,2020-05-29 12:51:40.204,http-nio-8080-exec-1
+Get a show by id,2020-05-29 12:51:40.207,http-nio-8080-exec-1
+Get a room by id,2020-05-29 12:51:40.209,http-nio-8080-exec-1
+Get a show by id,2020-05-29 12:51:40.211,http-nio-8080-exec-1
+Remove a ticket by id,2020-05-29 12:52:45.229,http-nio-8080-exec-7
+Get tickets by email,2020-05-29 12:52:45.334,http-nio-8080-exec-6
+Get an event by id,2020-05-29 12:52:45.337,http-nio-8080-exec-6
+Get a client by email,2020-05-29 12:52:45.34,http-nio-8080-exec-6
+Get a show by id,2020-05-29 12:52:45.342,http-nio-8080-exec-6
+Get a room by id,2020-05-29 12:52:45.345,http-nio-8080-exec-6
+Get a show by id,2020-05-29 12:52:45.348,http-nio-8080-exec-6
+Get an event by id,2020-05-29 12:52:45.352,http-nio-8080-exec-6
+Get a client by email,2020-05-29 12:52:45.355,http-nio-8080-exec-6
+Get a show by id,2020-05-29 12:52:45.359,http-nio-8080-exec-6
+Get a room by id,2020-05-29 12:52:45.362,http-nio-8080-exec-6
+Get a show by id,2020-05-29 12:52:45.364,http-nio-8080-exec-6
+Get all events,2020-05-29 12:53:08.034,http-nio-8080-exec-4
+Get a show by id,2020-05-29 12:53:08.037,http-nio-8080-exec-4
+Get a room by id,2020-05-29 12:53:08.04,http-nio-8080-exec-4
+Get a show by id,2020-05-29 12:53:08.043,http-nio-8080-exec-4
+Get a show by id,2020-05-29 12:53:08.046,http-nio-8080-exec-4
+Get a room by id,2020-05-29 12:53:08.049,http-nio-8080-exec-4
+Get a show by id,2020-05-29 12:53:08.052,http-nio-8080-exec-4
+Get a show by id,2020-05-29 12:53:08.055,http-nio-8080-exec-4
+Get a room by id,2020-05-29 12:53:08.057,http-nio-8080-exec-4
+Get a show by id,2020-05-29 12:53:08.06,http-nio-8080-exec-4
+Get a show by id,2020-05-29 12:53:08.063,http-nio-8080-exec-4
+Get a room by id,2020-05-29 12:53:08.067,http-nio-8080-exec-4
+Get a show by id,2020-05-29 12:53:08.071,http-nio-8080-exec-4
+Get a show by id,2020-05-29 12:53:08.074,http-nio-8080-exec-4
+Get a room by id,2020-05-29 12:53:08.076,http-nio-8080-exec-4
+Get a show by id,2020-05-29 12:53:08.079,http-nio-8080-exec-4
+Get a show by id,2020-05-29 12:53:08.082,http-nio-8080-exec-4
+Get a room by id,2020-05-29 12:53:08.085,http-nio-8080-exec-4
+Get a show by id,2020-05-29 12:53:08.087,http-nio-8080-exec-4
+Get a show by id,2020-05-29 12:53:08.09,http-nio-8080-exec-4
+Get a room by id,2020-05-29 12:53:08.092,http-nio-8080-exec-4
+Get a show by id,2020-05-29 12:53:08.095,http-nio-8080-exec-4
+Add a new ticket,2020-05-29 12:59:52.287,Add Ticket Thread
+Get the first free seat for an event by id,2020-05-29 12:59:52.288,Add Ticket Thread
+Get tickets by eventId,2020-05-29 12:59:52.288,Add Ticket Thread
+Get an event by id,2020-05-29 12:59:52.294,Add Ticket Thread
+Get a room by id,2020-05-29 12:59:52.298,Add Ticket Thread
+Check the validity of a ticket,2020-05-29 12:59:52.303,Add Ticket Thread
+Get a client by email,2020-05-29 12:59:52.303,Add Ticket Thread
+Get an event by id,2020-05-29 12:59:52.308,Add Ticket Thread
